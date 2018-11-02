@@ -9,5 +9,6 @@ def sit
  end
 end
 
-dog.bark
-dog.sit
+fido = Dog.new
+fido.bark
+fido.sit
