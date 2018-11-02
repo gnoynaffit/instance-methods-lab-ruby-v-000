@@ -8,3 +8,6 @@ def sit
   Puts "The Dog id sitting"
  end
 end
+
+dog.bark
+dog.sit
